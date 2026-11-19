@@ -517,7 +517,6 @@ const projects: Project[] = [
         caption: "Social feed post",
       },
     ],
-    videoPlaceholder: "The Fanfare demo video will be added here.",
   },
   {
     number: "11",
@@ -558,17 +557,11 @@ const projects: Project[] = [
         caption: "Clinic-hours support",
       },
       {
-        src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/videoframe_35516-qTLLIs1ACWIAcgSoGWzTfSk5QN7G6K.png",
-        label: "SehatCare mobile chat composing a clinic-hours question",
-        caption: "Mobile chat experience",
-      },
-      {
         src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/videoframe_9250-KMuBcSSndrxxzjuJrVlyScxVHwsqzK.png",
         label: "SehatCare appointment guidance conversation in a light mobile chat",
         caption: "Appointment assistance",
       },
     ],
-    videoPlaceholder: "The SehatCare demo video will be added here.",
   },
 ];
 
